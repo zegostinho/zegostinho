@@ -6,8 +6,6 @@ I'm a Python developer in training from Portugal, currently focused on building 
 
 I'm a naturally curious person who enjoys learning, exploring new ideas, and understanding how things work by experimenting, asking questions, and figuring things out along the way.
 
-Outside of programming, I enjoy watching movies and TV shows, playing video games, reading, and spending time with friends. I'm also perfectly happy relaxing at a café terrace or in a park and enjoying a quiet afternoon.
-
 I started learning programming because I've always been fascinated by how countless digital products and experiences can be created from code. At the same time, programming felt quite abstract to me, which made me even more curious about it. I wanted to understand what was really happening behind the scenes and, in a way, **crack the code**.
 
 ## 💻 Technologies & Tools
