@@ -10,14 +10,14 @@ I started learning programming because I've always been fascinated by how countl
 
 ## 💻 Technologies & Tools
 
-* 🐍 Python
-* ⚡ FastAPI
-* 🗄️ SQL / Databases
-* 📊 Pandas & NumPy
-* 🌐 Streamlit
-* 🎨 HTML / CSS
-* 🔐 REST APIs & JWT Authentication
-* 🐙 Git & GitHub
+* Python
+* FastAPI
+* SQL / Databases
+* Pandas & NumPy
+* Streamlit
+* HTML / CSS
+* REST APIs & JWT Authentication
+* Git & GitHub
 
 
 ## 📚 Currently Learning
